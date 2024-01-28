@@ -3,4 +3,4 @@ Hello, I am Kaushik Vada. As a college student interested in engineering, mathem
 
 - 👀 I’m interested in learning and programming in C++, HTML, CSS, and Java
 - 🌱 I’m currently looking for opputunities and creating projects to showcase my growing skills in my learning programming languages.
-- 📫 My resume is <http://tinyurl.com/KaushikVadhaResume>
+- 📫 [My Resume](<http://tinyurl.com/KaushikVadhaResume>)
