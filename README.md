@@ -3,7 +3,7 @@ Hello, I am Kaushik Vada. As a college student interested in engineering, mathem
 
 - 👀 I’m interested in learning and programming in C++, HTML, CSS, and Java
 - 🌱 I’m currently looking for opputunities and creating projects to showcase my growing skills in my learning programming languages.
-- 📫 My resume is 
+- 📫 My resume is <http://tinyurl.com/KaushikVadhaResume>
 
 <!---
 kaushikvada3/kaushikvada3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
