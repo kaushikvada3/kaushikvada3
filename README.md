@@ -25,10 +25,6 @@ My current interests lie in:
 - **Project Development**: Creating innovative projects to demonstrate my growing technical abilities.
 - **Seeking Opportunities**: Eager to find platforms where I can apply my knowledge and contribute effectively.
 
-## 📚 Sharing Knowledge
-
-I firmly believe in the power of education and mentorship. By teaching younger students, I aim to ignite the same passion for technology in them that I discovered at an early age.
-
 ## 📩 Connect With Me
 
 Interested in collaborating or learning more about my projects? Feel free to reach out!
