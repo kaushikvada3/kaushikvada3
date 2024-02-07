@@ -40,4 +40,4 @@ n
 
 Curious about my projects? Check out my repositories or click below to view my resume!
 
-[![Resume](https://img.shields.io/badge/View_Resume-URL_to_Resume-green?style=flat)]([http://tinyurl.com/KaushikVadhaResume](https://docs.google.com/document/d/e/2PACX-1vSyzg7xP-kLY4hlj06RHcTYx3mMqTlArWZOHtVajV9I3I6Unh8v5zvn2t6UqPtoHcnp11qQ7FiBVzmv/pub)https://docs.google.com/document/d/e/2PACX-1vSyzg7xP-kLY4hlj06RHcTYx3mMqTlArWZOHtVajV9I3I6Unh8v5zvn2t6UqPtoHcnp11qQ7FiBVzmv/pub)
+[![Resume](https://img.shields.io/badge/View_Resume-URL_to_Resume-green?style=flat)]([(https://docs.google.com/document/d/e/2PACX-1vSyzg7xP-kLY4hlj06RHcTYx3mMqTlArWZOHtVajV9I3I6Unh8v5zvn2t6UqPtoHcnp11qQ7FiBVzmv/pub])
