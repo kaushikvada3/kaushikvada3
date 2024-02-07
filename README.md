@@ -1,6 +1,5 @@
 # Welcome to Kaushik Vada's Repository 🌌
 
-![Banner](URL_TO_YOUR_BANNER_IMAGE)
 
 Hello! I’m **Kaushik Vada**, a Computer Science enthusiast from the **University of California, Riverside**. My academic journey is fueled by a relentless passion for **engineering**, **mathematics**, and **computer science**. With a dedication to excellence and innovation, I'm navigating the vast expanse of technology to make a lasting impact.
 
