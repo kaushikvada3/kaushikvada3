@@ -1,41 +1,17 @@
-# Welcome to Kaushik Vada's Repository 🌌
+# Hi, I’m Kaushik Vada
 
-Hello! I’m **Kaushik Vada**, a Computer Science enthusiast from the **University of California, Riverside**. My academic journey is fueled by a relentless passion for **engineering**, **mathematics**, and **computer science**. With a dedication to excellence and innovation, I'm navigating the vast expanse of technology to make a lasting impact.
+I’m a physical design intern at Tenstorrent and previously worked on SoC physical design at Arm. I’m interested in how decisions in RTL show up later as timing, power, and routing tradeoffs on a chip.
 
-## About Me 👨‍💻
+[LinkedIn](https://www.linkedin.com/in/kaushikv198/) · [Résumé](https://docs.google.com/document/d/e/2PACX-1vSyzg7xP-kLY4hlj06RHcTYx3mMqTlArWZOHtVajV9I3I6Unh8v5zvn2t6UqPtoHcnp11qQ7FiBVzmv/pub) · [Repositories](https://github.com/kaushikvada3?tab=repositories)
 
-I thrive on challenges and the continuous quest for knowledge. My path is adorned with:
+## What I’m exploring
 
-- 🏆 **Hackathons**: Enhancing problem-solving skills in collaborative and competitive environments.
-- 🥇 **Competitions**: Showcasing my expertise in state and national arenas.
-- 📚 **Leadership**: Inspiring peers through leadership in academic clubs.
-- 🌱 **Mentorship**: Empowering the future generation with knowledge and guidance.
+I’m interested in machine learning for electronic design automation, especially timing analysis. One question I keep coming back to is how to tell whether a model has learned something useful about a circuit. For timing, a model can look accurate on average and still miss the one path that limits clock speed.
 
-### Interests 🌟
+## Selected projects
 
-I'm deeply immersed in:
+- **Project Obsidian** — A 2D graphics accelerator that I use to explore the path from RTL to physical layout.
+- **Two-level cache** — I took a cache design through synthesis, placement, and clock-tree synthesis in Fusion Compiler using the SAED 32 nm library.
+- **Battery management system** — For a ten-cell series pack, I worked on a six-layer PCB and STM32 firmware that monitors voltage, current, and temperature and reports measurements to a dashboard.
 
-- **C++**: Mastering object-oriented programming for efficient algorithmic solutions.
-- **HTML & CSS**: Creating visually captivating and intuitive web experiences.
-- **Java**: Developing robust and scalable applications.
-
-### Current Endeavors 🚀
-
-- **Learning and Growing**: Advancing my skills in preferred technologies.
-- **Project Development**: Bringing innovative ideas to life through coding.
-- **Seeking Opportunities**: Looking for platforms to contribute and grow.
-
-## Let's Connect 📩
-
-I'm open to collaborations and keen on sharing my journey. Reach out to learn more about my projects or discuss potential opportunities!
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kaushikv198/)](https://www.linkedin.com/in/kaushikv198/)
-
-[![GitHub Badge](https://img.shields.io/github/followers/kaushikvada3?label=follow&style=social)](https://github.com/kaushikvada3/)
-
-### Explore My Work
-
-Curious about my projects? Check out my repositories or click below to view my resume!
-
-[![Resume](https://img.shields.io/badge/View_Resume-green?style=flat)](https://docs.google.com/document/d/e/2PACX-1vSyzg7xP-kLY4hlj06RHcTYx3mMqTlArWZOHtVajV9I3I6Unh8v5zvn2t6UqPtoHcnp11qQ7FiBVzmv/pub)
-
+I also developed *Hands-On Introduction to Industry Chip Design Tools* at UC Riverside. I enjoy helping someone trace a timing report back to the cells, wires, and clocks that produced it.
