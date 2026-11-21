@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 184" role="img" aria-labelledby="title desc">
+<title id="title">A signal path across a chip floorplan</title>
+<desc id="desc">An illustrative turquoise route connects two cells among muted rows of logic and larger memory blocks.</desc>
+<defs>
+ <linearGradient id="bg"><stop stop-color="#101c29"/><stop offset="1" stop-color="#1c3242"/></linearGradient>
+ <pattern id="cells" width="54" height="16" patternUnits="userSpaceOnUse"><path d="M1 2h17v9H1z M22 2h8v9h-8z M34 2h17v9H34z" fill="#496275" opacity=".55"/></pattern>
+ <pattern id="macro" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 1h8" stroke="#627e90" opacity=".4"/></pattern>
+</defs>
+<rect width="960" height="184" rx="16" fill="url(#bg)"/>
+<rect x="20" y="16" width="920" height="152" fill="url(#cells)"/>
+<g fill="#273f50" stroke="#667f90"><rect x="120" y="30" width="156" height="64" rx="3"/><rect x="380" y="100" width="176" height="52" rx="3"/><rect x="650" y="30" width="134" height="68" rx="3"/></g>
+<path d="M124 34h148v56H124z M384 104h168v44H384z M654 34h126v60H654z" fill="url(#macro)"/>
+<path d="M57 133H309V69H584V122H830V54H904" fill="none" stroke="#112631" stroke-width="10"/>
+<path d="M57 133H309V69H584V122H830V54H904" fill="none" stroke="#67eddb" stroke-width="3.5"/>
+<g fill="#132b37" stroke="#9ff9e9" stroke-width="3"><circle cx="57" cy="133" r="7"/><circle cx="904" cy="54" r="7"/></g>
+</svg>
