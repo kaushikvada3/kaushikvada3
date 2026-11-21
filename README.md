@@ -14,4 +14,4 @@ I’m interested in machine learning for electronic design automation, especiall
 - **Two-level cache** — I took a cache design through synthesis, placement, and clock-tree synthesis in Fusion Compiler using the SAED 32 nm library.
 - **Battery management system** — For a ten-cell series pack, I worked on a six-layer PCB and STM32 firmware that monitors voltage, current, and temperature and reports measurements to a dashboard.
 
-I also developed *Hands-On Introduction to Industry Chip Design Tools* at UC Riverside. I enjoy helping someone trace a timing report back to the cells, wires, and clocks that produced it.
+I also developed *Hands-On Introduction to Industry Chip Design Tools*. I enjoy helping someone trace a timing report back to the cells, wires, and clocks that produced it.
