@@ -2,7 +2,7 @@
 
 ## Hi, I’m Kaushik.
 
-I’m currently a **SoC Physical Design Co-Op at Arm**. Previously, I was a physical design intern at **Tenstorrent**. My favorite part of chip design is tracing a late signal through the layout to understand where the time went.
+I’m currently a **SoC Physical Design Co-Op at Arm**. Previously, I was a physical design intern at **Tenstorrent**.
 
 ### What I’m exploring
 
