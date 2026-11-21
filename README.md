@@ -2,10 +2,16 @@
 
 ## Hi, I’m Kaushik.
 
-I’m a physical design intern at **Tenstorrent**. Previously, I worked on SoC physical design at **Arm**.
+I’m a physical design intern at **Tenstorrent**. Previously, I worked on SoC physical design at **Arm**. My favorite part of chip design is tracing a late signal through the layout to understand where the time went.
 
-- **Exploring** machine learning for timing corner selection.
-- **Building hardware** with Project Obsidian, a 2D graphics accelerator, and a two-level cache.
-- **Teaching chip design** through a hands-on course I developed.
+### What I’m exploring
+
+Can machine learning help us run fewer timing corners and still catch the paths that fail? I’m interested in how to choose those corners and how to tell when the selection misses a setup or hold violation.
+
+### Outside my internships
+
+- **Project Obsidian** — A 2D graphics accelerator I use to explore how graphics RTL translates into physical layout.
+- **Two-level cache** — I took the design through synthesis, placement, and clock-tree synthesis using Fusion Compiler and a 32 nm cell library.
+- **Teaching** — I developed *Hands-On Introduction to Industry Chip Design Tools* to give students a practical entry point into physical design.
 
 [Repositories](https://github.com/kaushikvada3?tab=repositories) · [Résumé](https://docs.google.com/document/d/e/2PACX-1vSyzg7xP-kLY4hlj06RHcTYx3mMqTlArWZOHtVajV9I3I6Unh8v5zvn2t6UqPtoHcnp11qQ7FiBVzmv/pub) · [LinkedIn](https://www.linkedin.com/in/kaushikv198/)
